@@ -1,0 +1,41 @@
+body{
+
+    background-image: url(img/IMG_4189.JPG); 
+    background-size: 1400px;
+    color: lch(70.99% 42.14 295.42)
+
+}
+
+h1{
+
+color: aliceblue;
+
+}
+h3{
+
+
+    color: #e27979;
+}
+
+p{
+
+text-shadow: 1000px;
+font-weight: bold;
+
+
+}
+
+#volume5{
+
+
+
+}
+
+#volume5:hover{
+
+color: darkslategray;
+letter-spacing: 2px;
+font-size: x-large;
+text-decoration: wavy;
+
+}
